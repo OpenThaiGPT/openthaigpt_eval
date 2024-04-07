@@ -1,0 +1,8 @@
+transformers==4.37.2
+tqdm
+pandas
+accelerate
+bitsandbytes
+sentencepiece
+einops
+protobuf
