@@ -1,5 +1,8 @@
-# OpenThaiGPT - Thai Exam Eval
+# OpenThaiGPT - Thai Exams Eval
 Kobkrit Viriyayudhakorn (kobkrit@aieat.or.th)
+
+## Exams Details
+https://docs.google.com/spreadsheets/d/1ZtP5Jkx0IvCWNPQhMKitZszGnLKqvEDEf0OKdmQiXjA/edit#gid=1181424412
 
 ## Creating a Conda environment
 ```
@@ -21,5 +24,4 @@ pip install -r requirements.txt
 ./run.sh
 ```
 
-## Exams Details
-https://docs.google.com/spreadsheets/d/1ZtP5Jkx0IvCWNPQhMKitZszGnLKqvEDEf0OKdmQiXjA/edit#gid=1181424412
+
