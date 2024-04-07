@@ -22,4 +22,4 @@ pip install -r requirements.txt
 ```
 
 ## Exams Details
-https://docs.google.com/spreadsheets/d/1ZtP5Jkx0IvCWNPQhMKitZszGnLKqvEDEf0OKdmQiXjA/edit#gid=877151013
+https://docs.google.com/spreadsheets/d/1ZtP5Jkx0IvCWNPQhMKitZszGnLKqvEDEf0OKdmQiXjA/edit#gid=1181424412
