@@ -1,8 +1,7 @@
 # OpenThaiGPT - Thai Exams Eval
 Kobkrit Viriyayudhakorn (kobkrit@aieat.or.th)
 
-Usage: ``python evaluate.py <model_name> [model_path/api_key]``
-Evaluate the model with all exams in exams folder with the given model name.
+Usage: ``python evaluate.py <model_name> [model_path/api_key]`` for evaluate the model with all exams in exams folder with the given model name.
 
 Available benchmark models:
  - openthaigpt/openthaigpt-1.0.0-beta-7b-chat-ckpt-hf
