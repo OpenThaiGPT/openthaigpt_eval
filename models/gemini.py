@@ -1,6 +1,3 @@
-REGION = "asia-southeast1"
-PROJECT_ID = "gemini-4-417315"
-
 import requests
 
 _model_name = None
